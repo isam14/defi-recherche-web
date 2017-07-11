@@ -29,4 +29,17 @@ The Internet’s roots are in the U.S. during the late 1960s. The Web  was inven
 
 To keep things “interesting,” many people use the term Internet to refer to both.
 
+3-Qu’est-ce que cela?
+
+    8.8.8.8
+    192.168.0.1
+    255.255.255.0
+    127.0.0.1
+
+http://searchunifiedcommunications.techtarget.com/definition/Internet-Protocol
+
+IP addresses....
+The Internet Protocol (IP) is the method or protocol by which data is sent from one computer to another on the Internet. Each computer (known as a host) on the Internet has at least one IP address that uniquely identifies it from all other computers on the Internet. 
+
+
 
