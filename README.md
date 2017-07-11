@@ -76,3 +76,8 @@ Le Cobol, un langage informatique encore utilisé aujourd’hui
 Elle y connaîtra la première panne informatique due à la présence d’un insecte et donna ainsi naissance au terme « bug » (insecte en anglais) dans le vocabulaire international. Mais c’est surtout par son invention du Cobol, acronyme de COmmon Business Oriented Language, qu’elle marquera l’histoire. Engagée par IBM, à partir de 1957, Grace Hopper crée un langage informatique très proche de l'anglais permettant de programmer des applications de gestion encore utilisé aujourd’hui. Une technique qu’elle développera ensuite dans l’armée américaine où elle s’engage une nouvelle fois quelques années plus tard. Elle y restera jusqu’en 1986 et obtiendra le grade de contre-amiral. Décédée en 1992, elle est enterrée avec les honneurs militaires au cimetière d'Arlington.
 
 
+7-Qu'est-ce que Qwant ?
+
+
+
+
