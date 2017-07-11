@@ -41,5 +41,13 @@ http://searchunifiedcommunications.techtarget.com/definition/Internet-Protocol
 IP addresses....
 The Internet Protocol (IP) is the method or protocol by which data is sent from one computer to another on the Internet. Each computer (known as a host) on the Internet has at least one IP address that uniquely identifies it from all other computers on the Internet. 
 
+4-Que sont le copyright et le copyleft ?
 
+https://www.gnu.org/gwm/libredocxml/x53.html
+
+Copyrights exist in order to protect authors of documentation or software from unauthorized copying or selling of their work. A copyright infers that only with the author's permission may such activities take place.
+
+A Copyleft, on the other hand, provides a method for software or documentation to be modified, and distributed back to the community, provided it remains Libre.
+
+In the case of Libre Documentation, an author can place his or her copyright into the document, and use distribution terms, such as those in the GNU Free Documentation License, which gives everyone the rights to use, modify, and redistribute the code, but only if those distribution terms remain unchanged. This ensures that the source code and the freedoms are legally inseparable. This is known as "copyleft". 
 
