@@ -78,6 +78,17 @@ Elle y connaîtra la première panne informatique due à la présence d’un ins
 
 7-Qu'est-ce que Qwant ?
 
+https://fr.wikipedia.org/wiki/Qwant
 
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
 
+Après un lancement critiqué, à cause de ses résultats très proches de Bing et Wikipédia1,2, une nouvelle version du moteur est publiée, en avril 2015, accompagnée des encouragements du gouvernement, via Emmanuel Macron, alors ministre de l'Économie, de l'Industrie et du Numérique déclarant qu'un « Google français est en marche »3. En mars 2017, après une levée de fonds avec le soutien de la Caisse des dépôts et consignations, de nouveaux articles évoquent l'usage par Qwant de plusieurs technologies, algorithmes et régie publicitaire, fournies par Microsoft4,5.
+
+Le nom Qwant est, selon ses créateurs, la combinaison de la lettre Q du mot Quantités, qui évoque la masse de données que le robot d'indexation parcourt quotidiennement — cela pourrait aussi être le Q de Quantique8 — et du mot anglais want, qui signifie vouloir, ou wanted qui signifie chercher9. Selon Éric Léandri, Qwant se veut « la Suisse de l'internet » en raison de son absence de traçage des utilisateurs8.
+
+8-Qui est Steve Wozniak ?
+
+http://dailygeekshow.com/steve-wozniak-cachait-bien-son-jeu-le-fondateur-dapple-est-aussi-champion-de-tetris/
+
+Tout le monde sait que Steve Jobs a créé Apple mais ce que l’on sait moins c’est qu’il n’était pas tout seul. Steve Wozniak a aussi participé à l’aventure. Mais ce n’est pas tout, il était aussi champion de Tetris !
 
