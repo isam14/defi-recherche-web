@@ -61,3 +61,18 @@ Les licences Creative Commons constituent un ensemble de licences régissant les
 https://fr.wikipedia.org/wiki/Creative_Commons
 
 Creative Commons (CC) est une association à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
+
+
+6-Qui est Grace Hopper ?
+9-D'où vient l'expression "bug informatique" ?
+
+
+http://www.terrafemina.com/culture/culture-web/articles/34326-qui-est-grace-hopper-la-femme-qui-fit-parler-les-ordinateurs-.html
+
+Grace Murray Hopper est l’une des figures emblématiques du XXe siècle en matière de nouvelles technologies. Titulaire d’un doctorat en mathématiques, elle a d’abord commencé sa carrière comme enseignante avant de s’engager dans la marine américaine en 1943 où elle est alors chargée de la programmation du premier supercalculateur numérique Harvard Mark, fabriqué par IBM.
+
+Le Cobol, un langage informatique encore utilisé aujourd’hui
+
+Elle y connaîtra la première panne informatique due à la présence d’un insecte et donna ainsi naissance au terme « bug » (insecte en anglais) dans le vocabulaire international. Mais c’est surtout par son invention du Cobol, acronyme de COmmon Business Oriented Language, qu’elle marquera l’histoire. Engagée par IBM, à partir de 1957, Grace Hopper crée un langage informatique très proche de l'anglais permettant de programmer des applications de gestion encore utilisé aujourd’hui. Une technique qu’elle développera ensuite dans l’armée américaine où elle s’engage une nouvelle fois quelques années plus tard. Elle y restera jusqu’en 1986 et obtiendra le grade de contre-amiral. Décédée en 1992, elle est enterrée avec les honneurs militaires au cimetière d'Arlington.
+
+
